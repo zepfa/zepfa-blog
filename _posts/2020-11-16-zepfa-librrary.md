@@ -1,7 +1,7 @@
 ---
 date: 2020-11-16 09:45:32
 layout: post
-title: Zepfa Librrary
+title: Zepfa Library
 description: Zepfa Library adalah Sistem Informasi perpustakaan yang dibuat
   dengan CodeIgniter3.
 image: /assets/img/uploads/zepfa-lib.png
