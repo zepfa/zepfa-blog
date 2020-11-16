@@ -4,13 +4,13 @@ layout: post
 title: Zepfa Team
 subtitle: ""
 description: Zepfa Team adalah sekelompok penggiat Teknologi.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
-category: css
+image: /assets/img/uploads/zepfa-team.png
+optimized_image: /assets/img/uploads/zepfa-team.png
+category: blog
 tags:
-  - css
-  - tips
-author: thiagorossener
+  - zepfa
+  - zepfateam
+author: ariffb
 paginate: true
 ---
 Zepfa Team adalah sekelompok penggiat Teknologi.
